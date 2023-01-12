@@ -1,0 +1,2 @@
+C:\Users\panna\Downloads\opengl-tutorials-main\opengl-tutorials-main\YoutubeOpenGL 1 - Create Window\x64\Debug\3dModel.exe
+C:\Users\panna\Downloads\opengl-tutorials-main\opengl-tutorials-main\3dModel\x64\Debug\3dModel.exe
